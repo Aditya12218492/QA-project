@@ -1,12 +1,27 @@
-# QA Project
+# QA-project
 
-This is a sample QA Engineer project with:
-- API Tests using `requests` and `pytest`
-- UI Tests using `selenium`
+This is a complete QA testing project that includes:
 
-## How to run
+## 📌 Project Modules:
+- User Login
+- API Testing
+- UI Testing using Selenium
+- Test Cases & Bug Reports
 
-```bash
-pip install -r requirements.txt
-pytest
-```
+---
+
+## 🧪 Manual Testing:
+- ✅ Test Cases (Excel)
+- 🐞 Bug Reports (Template)
+
+## 🔗 API Testing (Postman):
+- Login API
+- User Data API
+- JSON Validations with Tests
+
+## 🤖 Automation Testing:
+- Selenium + Java
+- TestNG Framework
+- Page Object Model (POM) used
+
+## 📂 Folder Structure:
